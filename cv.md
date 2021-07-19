@@ -10,7 +10,7 @@
 
 4. I am learning HTML. CSS. JS
 
-5. <!---CSS
+5.  ̀ ̀ ̀  CSS
   .popup {display: inline-block;
     position: relative;
     cursor: pointer;
@@ -40,7 +40,7 @@
     border-width: 10px;
     border-style: solid;
     border-color: #555;
-}--->
+} ̀ ̀ ̀
 
 6. I would like to become a Junior Dev 
 
