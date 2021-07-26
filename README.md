@@ -1,2 +1,2 @@
 # rsschool-cv
-https://natalia1717.github.io/rsschool-cv/cv
+https://github.com/Natalia1717/rsschool-cv/tree/rsschool-cv-html
